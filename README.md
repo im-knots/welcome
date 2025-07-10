@@ -68,7 +68,7 @@ Want to be recognized as a core contributor on our website? We'd love to hear fr
 **Include:**
 - Your **CV/resume/portfolio/manifesto** - whatever best represents who you are
 - **Links to your pull requests** - show us your contributions
-- **Why ERU Labs** - what draws you to our mission
+- **Why Eru Labs** - what draws you to our mission
 - **Your background** - research, engineering, art, philosophy, whatever makes you unique
 
 We're not looking for perfect credentials. We're looking for people who embody the hacker spirit and want to build technology that serves humanity.
