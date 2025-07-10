@@ -47,7 +47,19 @@ Browse our repositories and find something that interests you:
 
 We review all contributions fairly and provide constructive feedback. Quality matters more than quantity.
 
-### 3. Join the Collective
+### 3. Propose New Research or Projects
+
+Have an idea for a research direction or project that aligns with our mission? We want to hear about it!
+
+**Create a GitHub issue** on this repository with:
+- **Research/Project proposal** - Detailed description of your idea
+- **Relevance** - How it fits with Eru Labs' focus on human-centric technology
+- **Implementation plan** - Your thoughts on how to approach the work
+- **Resources needed** - What support or collaboration you're looking for
+
+We review all proposals and will engage with ideas that advance our collective mission.
+
+### 4. Join the Collective
 
 Want to be recognized as a core contributor on our website? We'd love to hear from you!
 
