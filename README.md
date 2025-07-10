@@ -87,7 +87,7 @@ Examples of unacceptable behavior by participants include:
 
 ### Enforcement
 
-Community leaders are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that they deem inappropriate, threatening, offensive, or harmful.
+The community itself is responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior that we deem inappropriate, threatening, offensive, or harmful.
 
 ### Attribution
 
@@ -110,7 +110,4 @@ This Code of Conduct is adapted from the [Contributor Covenant](https://www.cont
 Remember: the best way to understand our work is to dive in and start contributing. We believe in learning by doing, and we're here to support you along the way.
 
 ---
-
-*"Access to computers—and anything that might teach you something about how the world works—should be unlimited and total." - The Hacker Ethic*
-
 **Welcome to the collective. Let's build something amazing together.**
