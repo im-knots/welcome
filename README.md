@@ -17,7 +17,7 @@ We welcome anyone who shares our vision of human-centric AI and radical openness
 - **Tinkerer er DIYer** - Taking things apart, figuring out how they work, making them better
 - **Artist** - Both audio and visual creators who understand technology as a medium for expression
 - **Philosopher** - Thinking deeply about ethics, human agency, and the future we're building
-- **Nerd** - Obsessed with understanding how things work and making them work better
+- **Nerd** - Obsessed with understanding how things work on a fundamental level
 
 If you believe in the hacker ethos that "information wants to be free" and that access to knowledge should be unlimited and total, you belong here.
 
