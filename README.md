@@ -14,7 +14,7 @@ We welcome anyone who shares our vision of human-centric AI and radical openness
 
 - **Hacker or Researcher** - Exploring multi-agent systems, emergent behaviors, and AI social dynamics
 - **SRE or Software Engineer** - Building production-scale systems that bridge theory and practice  
-- **Tinkerer er DIYer** - Taking things apart, figuring out how they work, making them better
+- **Tinkerer or DIYer** - Taking things apart, figuring out how they work, making them better
 - **Artist** - Both audio and visual creators who understand technology as a medium for expression
 - **Philosopher** - Thinking deeply about ethics, human agency, and the future we're building
 - **Nerd** - Obsessed with understanding how things work on a fundamental level
