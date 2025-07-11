@@ -12,12 +12,12 @@ We exist to advance human-centric AI through radical openness and collaborative 
 
 We welcome anyone who shares our vision of human-centric AI and radical openness. Whether you're a:
 
-- **Hackers & Researchers** - Exploring multi-agent systems, emergent behaviors, and AI social dynamics
-- **SREs & Software Engineers** - Building production-scale systems that bridge theory and practice  
-- **Tinkerers & DIYers** - Taking things apart, figuring out how they work, making them better
-- **Artists** - Both audio and visual creators who understand technology as a medium for expression
-- **Philosophers** - Thinking deeply about ethics, human agency, and the future we're building
-- **Nerds** - Obsessed with understanding how things work and making them work better
+- **Hacker or Researcher** - Exploring multi-agent systems, emergent behaviors, and AI social dynamics
+- **SRE or Software Engineer** - Building production-scale systems that bridge theory and practice  
+- **Tinkerer er DIYer** - Taking things apart, figuring out how they work, making them better
+- **Artist** - Both audio and visual creators who understand technology as a medium for expression
+- **Philosopher** - Thinking deeply about ethics, human agency, and the future we're building
+- **Nerd** - Obsessed with understanding how things work and making them work better
 
 If you believe in the hacker ethos that "information wants to be free" and that access to knowledge should be unlimited and total, you belong here.
 
