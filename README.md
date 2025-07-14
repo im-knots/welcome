@@ -2,7 +2,7 @@
 
 > A collective of hackers, researchers, artists, and dreamers building AI that serves humanity
 
-We're not just another AI lab. Born from hacker culture and IRC communities, we believe in radical transparency, collaborative innovation, and the fundamental right to free and open information. While others abandoned their principles for profit, we hold fast to a simple truth: technology should empower everyone, not just the few.
+Born from hacker culture and IRC communities, we believe in radical transparency, collaborative innovation, and the fundamental right to free and open information. While others abandoned their principles for profit, we hold fast to a simple truth: technology should empower everyone, not just the few.
 
 ## Our Mission
 
